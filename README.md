@@ -1,5 +1,5 @@
 1. Create Vercel postresql db
-2. mkdir <project-folder> && cd <project-folder>
+2. mkdir project-folder && cd project-folder
 2. npx create-medusa-app@latest --db-url "postgres://default:passwordhost-region.postgres.vercel-storage.com:5432/verceldb?sslmode=require"
 3. npm install @medusajs/medusa-cli -g 
 4. cd my-medusa-store
